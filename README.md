@@ -1,1 +1,3 @@
-# UI-UX_
+UI(User Interface) and UX( User Experience) are two crucial aspects of of design , particularly for digital products like websites, Mobile apps,and software. while they are closely related,they focus on different elements of the user interaction process  
+UI ( User Interface) Design:UI refers to the visuals elements that users interact with. Its the layout, Colors, buttons, typography, icons and all others visuals components that make up the interface . The goal of UI design is to create an attractive and functional interface that users can interact with easily and intuitively.
+UX(User Experience) Design: UX design focuses on the overall experience of the user while interacting with the product. It encompasses the entire process, from the usability of the interface of the user's emotions and satisfaction during and after the interaction. UX aims to create a smooth, enjoyable, and efficient experience for users.
